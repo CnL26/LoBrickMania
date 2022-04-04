@@ -1,0 +1,149 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-LorenzosBBREAK_ball {
+    width: 256px;
+    height: 256px;
+    background-position: -10px -10px;
+}
+
+.sprite-LorenzosBBREAK_ball-_1_ {
+    width: 256px;
+    height: 256px;
+    background-position: -286px -10px;
+}
+
+.sprite-LorenzosBBREAK_ball-_2_ {
+    width: 256px;
+    height: 256px;
+    background-position: -562px -10px;
+}
+
+.sprite-LorenzosBBREAK_ball-_3_ {
+    width: 256px;
+    height: 256px;
+    background-position: -838px -10px;
+}
+
+.sprite-LorenzosBBREAK_ball-_4_ {
+    width: 256px;
+    height: 256px;
+    background-position: -10px -286px;
+}
+
+.sprite-LorenzosBBREAK_ball-_5_ {
+    width: 256px;
+    height: 256px;
+    background-position: -286px -286px;
+}
+
+.sprite-LorenzosBBREAK_ball-_6_ {
+    width: 256px;
+    height: 256px;
+    background-position: -562px -286px;
+}
+
+.sprite-LorenzosBBREAK_ball-_7_ {
+    width: 256px;
+    height: 256px;
+    background-position: -838px -286px;
+}
+
+.sprite-LorenzosBBREAK_ball-_8_ {
+    width: 256px;
+    height: 256px;
+    background-position: -10px -562px;
+}
+
+.sprite-LorenzosBBREAK_ball-_9_ {
+    width: 256px;
+    height: 256px;
+    background-position: -286px -562px;
+}
+
+.sprite-LorenzosBBREAK_long_paddle {
+    width: 256px;
+    height: 256px;
+    background-position: -562px -562px;
+}
+
+.sprite-LorenzosBBREAK_paddle {
+    width: 256px;
+    height: 256px;
+    background-position: -838px -562px;
+}
+
+.sprite-LorenzosBBREAK_paddle_lng {
+    width: 256px;
+    height: 256px;
+    background-position: -10px -838px;
+}
+
+.sprite-LorenzosBBREAK_paddle_sm {
+    width: 256px;
+    height: 256px;
+    background-position: -286px -838px;
+}
+
+.sprite-LorenzosBBREAK_powerups {
+    width: 256px;
+    height: 256px;
+    background-position: -562px -838px;
+}
+
+.sprite-LorenzosBBREAK_powerups-_2_ {
+    width: 256px;
+    height: 256px;
+    background-position: -838px -838px;
+}
+
+.sprite-LorenzosBBREAK_powerups-_3_ {
+    width: 256px;
+    height: 256px;
+    background-position: -1114px -10px;
+}
+
+.sprite-LorenzosBBREAK_powerups-_4_ {
+    width: 256px;
+    height: 256px;
+    background-position: -1114px -286px;
+}
+
+.sprite-github {
+    width: 30px;
+    height: 30px;
+    background-position: -1390px -10px;
+}
+
+.sprite-gmail {
+    width: 30px;
+    height: 30px;
+    background-position: -1390px -60px;
+}
+
+.sprite-linkedin {
+    width: 30px;
+    height: 30px;
+    background-position: -1390px -110px;
+}
+
+.sprite-stackoverflow {
+    width: 30px;
+    height: 30px;
+    background-position: -1390px -160px;
+}
+
+.sprite-tumblr {
+    width: 30px;
+    height: 30px;
+    background-position: -1390px -210px;
+}
+
+.sprite-twitter {
+    width: 30px;
+    height: 30px;
+    background-position: -1390px -260px;
+}
